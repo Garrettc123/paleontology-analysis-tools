@@ -1,0 +1,25 @@
+{
+  "dinosaurs": {
+    "theropods": [
+      {"name": "Tyrannosaurus Rex", "period": "Late Cretaceous", "age_mya": "68-66"},
+      {"name": "Velociraptor", "period": "Late Cretaceous", "age_mya": "75-71"},
+      {"name": "Allosaurus", "period": "Late Jurassic", "age_mya": "155-145"}
+    ],
+    "sauropods": [
+      {"name": "Brachiosaurus", "period": "Late Jurassic", "age_mya": "154-153"},
+      {"name": "Diplodocus", "period": "Late Jurassic", "age_mya": "154-152"}
+    ],
+    "ornithischians": [
+      {"name": "Triceratops", "period": "Late Cretaceous", "age_mya": "68-66"},
+      {"name": "Stegosaurus", "period": "Late Jurassic", "age_mya": "155-150"}
+    ]
+  },
+  "marine_fossils": [
+    {"name": "Ammonite", "period": "Mesozoic", "age_mya": "240-66"},
+    {"name": "Trilobite", "period": "Paleozoic", "age_mya": "521-252"}
+  ],
+  "plants": [
+    {"name": "Araucarioxylon", "period": "Triassic-Cretaceous", "age_mya": "250-66"},
+    {"name": "Archaeopteris", "period": "Devonian", "age_mya": "385-360"}
+  ]
+}
